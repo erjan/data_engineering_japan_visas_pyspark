@@ -1,0 +1,1 @@
+scp -i spark-cluster-key.pem -r ./src/* ubuntu@3.234.134.108:/home/ubuntu
