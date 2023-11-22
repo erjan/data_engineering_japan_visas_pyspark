@@ -1,5 +1,5 @@
 # data_engineering_japan_visas_pyspark
-data enginerring project - visualize visa numbers by country, time issued from japan
+data engineering project - visualize visa numbers by country, time issued from japan
 
 This is small data engineering project to learn how to install apache spark cluster on server, learn the workflow of interaction with apache spark/local machine via pyspark. 
 
